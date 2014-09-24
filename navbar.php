@@ -8,11 +8,11 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-<!--			<a class="navbar-brand" href="index.php"><img id="wits_logo" src="images/WiTSLogo.png" alt="WITS"/></a>-->
+			<a class="navbar-brand" href="index.php"><img id="wits_logo" src="images/WiTSLogo.png" alt="WITS"/></a>
 		</div>
 		<div class="collapse navbar-collapse">
 			<ul class="nav navbar-nav">
-                <li><img id="wits_logo" src="images/WiTSLogo.png" alt="WiTS"/></li>
+<!--                <li><img id="wits_logo" src="images/WiTSLogo.png" alt="WiTS"/></li>-->
 				<li <?php if (isset($home)) echo 'class="active"'; ?>><a href="index.php">Home</a></li>
 				<li <?php if (isset($about)) echo 'class="active"'; ?>><a href="news.php">Members</a></li>
 				<li <?php if (isset($portfolio)) echo 'class="active"'; ?>><a href="minutes.php">Minutes</a></li>
