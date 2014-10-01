@@ -44,9 +44,6 @@ body > .container {
 code {
   font-size: 80%;
 }
-.container {
-  max-width: 90rem;
-}
 
 .jumbotron {
   position: relative;
@@ -165,4 +162,9 @@ h1, h2, h3, h4 {
   font-size: 20px;
 }
 
+#wits_logo {
+    max-width: 75px;
+    max-height: 75px;
+    padding-right: 10px;
+}
 
