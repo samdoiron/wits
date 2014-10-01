@@ -20,6 +20,6 @@
 				<li <?php if (isset($relatedlinks)) echo 'class="active"'; ?>><a href="relatedlinks.php">Related Links</a></li>
 				<li <?php if (isset($contact)) echo 'class="active"'; ?>><a href="contact.php">Contact</a></li>
 			</ul>
-		</div><!--/.nav-collapse -->
+		</div>
 	</div>
 </div>
