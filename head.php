@@ -2,10 +2,11 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Main page for Web Development Society">
+	<meta name="description" content="Main page for the Women in Technology Society">
 	<meta name="author" content="Web Development Society">
 
-	<title>Web Development Society</title>
+    <link rel="icon" type="image/ico" href="images/WiTSLogo.png"/>
+	<title>Women in Technology Society</title>
 
 	<!-- Bootstrap core CSS -->
 	<link href="css/bootstrap.css" rel="stylesheet">

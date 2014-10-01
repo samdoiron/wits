@@ -41,3 +41,10 @@ code {
 .container {
   max-width: 768px;
 }
+
+#wits_logo {
+    max-width: 75px;
+    max-height: 75px;
+    padding-right: 10px;
+}
+
