@@ -15,7 +15,7 @@
 <!--                <li><img id="wits_logo" src="images/WiTSLogo.png" alt="WiTS"/></li>-->
 				<li <?php if (isset($home)) echo 'class="active"'; ?>><a href="index.php">Home</a></li>
 				<li <?php if (isset($about)) echo 'class="active"'; ?>><a href="news.php">Members</a></li>
-				<li <?php if (isset($portfolio)) echo 'class="active"'; ?>><a href="minutes.php">Minutes</a></li>
+				<li <?php if (isset($minutes_page)) echo 'class="active"'; ?>><a href="minutes.php">Minutes</a></li>
 				<li <?php if (isset($members)) echo 'class="active"'; ?>><a href="members.php">Calendar</a></li>
                 <li <?php if (isset($wetalktech)) echo 'class="active"'; ?>><a href="wetalktech.php">We Talk Tech</a></li>
 				<li <?php if (isset($relatedlinks)) echo 'class="active"'; ?>><a href="members.php">Related Links</a></li>
