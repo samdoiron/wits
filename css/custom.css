@@ -1,13 +1,20 @@
+* {
+  box-sizinG: border-box;
+}
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
-  position: relative;
   min-height: 100%;
+  font-family: 'Roboto' 16px;
 }
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 60px;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 300;
 }
+
 #footer {
   position: absolute;
   bottom: 0;
@@ -37,7 +44,125 @@ body > .container {
 code {
   font-size: 80%;
 }
-
 .container {
-  max-width: 768px;
+  max-width: 90rem;
 }
+
+.jumbotron {
+  position: relative;
+  background-color: #00b7bb;
+  color: white;
+  height: 100vh;
+  max-height: 500px;
+}
+
+body .container {
+  padding-top: 0;
+}
+
+.btn-cta {
+  background-color: #ff771e;
+  color: white;
+  text-transform: uppercase;
+}
+
+.btn-cta:hover {
+  color: white;
+}
+
+.jumbotron-tagline {
+  position: absolute;
+  bottom: 10%;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+
+  /* Absolute-positioning vertical center hack */
+  left: 0;
+  right: 0;
+  margin: auto;
+}
+
+.jumbotron-tagline h2 {
+  margin: 0;
+}
+
+.jumbotron-image {
+  position: absolute;
+  opacity: 0.25;
+  height: 100%;
+  top: 0;
+}
+
+.jumbotron .centered {
+  position: absolute;
+  left: 0;
+  right: 0;
+  text-align: center;
+  margin: auto;
+}
+
+.jumbotron a {
+  color: white;
+}
+
+.play-button {
+  bottom: 35%;
+  color: #ff771e !important;
+}
+
+h1, h2, h3, h4 {
+  /* Ultra Light */
+  font-weight: 200;
+  margin-top: 0;
+}
+
+.dark-section {
+  max-width: none;
+  width: 100%;
+  background-color: hsl(180,25%,90%);
+}
+
+.dark-section > .container {
+  background-color: white;
+  padding: 3rem;
+}
+
+.red-section {
+  padding: 5rem;
+  background-color: #e93301;
+  text-align: center;
+  color: white;
+}
+
+.red-section .row:not(:last-of-type) {
+  margin-bottom: 3rem;
+}
+
+.sponsors-section {
+  padding: 2rem;
+}
+
+.site-footer {
+  min-height: 15rem;
+  background-color: #017e80;
+  padding: 3rem;
+}
+
+.copyright {
+  background-color: #004854;
+  padding: 1em;
+}
+
+.flat-button {
+  background-color: #1abc9c;
+  padding: .5em;
+  border: none;
+  border-radius: 3px;
+  padding-left: 3em;
+  padding-right: 3em;
+  color: white;
+  font-size: 20px;
+}
+
+
