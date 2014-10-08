@@ -19,9 +19,9 @@
 			</div>
 		</header>
 
-		<section class="container">
+		<section class="container intro-section">
 			<div class="col-md-8">
-				<h1>Then turning&mdash;the last link held fast in his left hand, he put his foot upon the Parsee; and with fixed</h1>
+				<h2>Then turning&mdash;the last link held fast in his left hand, he put his foot upon the Parsee; and with fixed</h2>
 				<p>
 					"Oh! thou clear spirit of clear fire, whom on these seas I as 
 					Persian once did worship, till in the sacramental act so burned by 
@@ -40,17 +40,16 @@
 				<button type="button" class="btn btn-cta btn-lg">
 					Learn more about us
 				</button>
-
 			</div>
 			<div class="col-md-4 hidden-sm hidden-xs">
-				<img class="img-responsive" src="http://placehold.it/300x450">
+				<img class="img-responsive" src="http://placehold.it/300x450&text=somebody+standing">
 			</div>
 		</section>
 
 		<section class="red-section">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-6 col-md-offset-3">
+					<div class="col-md-6 col-sm-12 col-md-offset-3">
 						<h1>"This is where some big imspirational quote goes!"</h1>
 					</div>
 				</div>
