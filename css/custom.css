@@ -127,6 +127,12 @@ h1, h2, h3, h4 {
   background-color: #e93301;
   text-align: center;
   color: white;
+	position: relative;
+	overflow: hidden;
+}
+
+.red-section .container * {
+	z-index: 100;
 }
 
 .red-section .row:not(:last-of-type) {
