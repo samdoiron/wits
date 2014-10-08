@@ -19,9 +19,9 @@
 			</div>
 		</header>
 
-		<section class="container">
+		<section class="container intro-section">
 			<div class="col-md-8">
-				<h1>Then turning&mdash;the last link held fast in his left hand, he put his foot upon the Parsee; and with fixed</h1>
+				<h2>Then turning&mdash;the last link held fast in his left hand, he put his foot upon the Parsee; and with fixed</h2>
 				<p>
 					"Oh! thou clear spirit of clear fire, whom on these seas I as 
 					Persian once did worship, till in the sacramental act so burned by 
@@ -40,27 +40,16 @@
 				<button type="button" class="btn btn-cta btn-lg">
 					Learn more about us
 				</button>
-
 			</div>
 			<div class="col-md-4 hidden-sm hidden-xs">
-				<img class="img-responsive" src="http://placehold.it/300x450">
-			</div>
-		</section>
-
-		<section class="dark-section">
-			<div class="container">
-<p>"About what?"</p>
-
-<p>"Oh, perhaps you hav'n't got any," he said quickly. "No matter though, I know many chaps that hav'n't got any,&mdash;good luck to 'em; and they are all the better off for it. A soul's a sort of a fifth wheel to a wagon."</p>
-
-<p>"What are you jabbering about, shipmate?" said I.</p>
+				<img class="img-responsive" src="http://placehold.it/300x450&text=somebody+standing">
 			</div>
 		</section>
 
 		<section class="red-section">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-6 col-md-offset-3">
+					<div class="col-md-6 col-sm-12 col-md-offset-3">
 						<h1>"This is where some big imspirational quote goes!"</h1>
 					</div>
 				</div>
@@ -72,12 +61,17 @@
 			</div>
 		</section>
 
-
 		<section class="sponsors-section">
 			<div class="container">
-				<div class="col-md-4">Dalhousie</div>
-				<div class="col-md-4">Canadian Women in Technology</div>
-				<div class="col-md-4">Dal CSS</div>
+				<div class="col-md-4">
+					<img src="images/FCS.png">
+				</div>
+				<div class="col-md-4">
+					<img src="images/CanWIT.png">
+				</div>
+				<div class="col-md-4">
+					<img src="images/CSS.png">
+				</div>
 			</div>
 		</section>
 
