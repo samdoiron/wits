@@ -47,16 +47,6 @@
 			</div>
 		</section>
 
-		<section class="dark-section">
-			<div class="container">
-<p>"About what?"</p>
-
-<p>"Oh, perhaps you hav'n't got any," he said quickly. "No matter though, I know many chaps that hav'n't got any,&mdash;good luck to 'em; and they are all the better off for it. A soul's a sort of a fifth wheel to a wagon."</p>
-
-<p>"What are you jabbering about, shipmate?" said I.</p>
-			</div>
-		</section>
-
 		<section class="red-section">
 			<div class="container">
 				<div class="row">
