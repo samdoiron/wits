@@ -72,12 +72,17 @@
 			</div>
 		</section>
 
-
 		<section class="sponsors-section">
 			<div class="container">
-				<div class="col-md-4">Dalhousie</div>
-				<div class="col-md-4">Canadian Women in Technology</div>
-				<div class="col-md-4">Dal CSS</div>
+				<div class="col-md-4">
+					<img src="images/FCS.png">
+				</div>
+				<div class="col-md-4">
+					<img src="images/CanWIT.png">
+				</div>
+				<div class="col-md-4">
+					<img src="images/CSS.png">
+				</div>
 			</div>
 		</section>
 
