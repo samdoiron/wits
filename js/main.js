@@ -8,6 +8,7 @@ $(function () {
 		$imageSection = $(CONFIG.selectors.imageSection),
 		i, j,  $image;
 
+  // Build the grid of images for the red section
 	for (i = 0; i < 50; ++i) {
 		for (j = 0; j < 50; ++j) {
 			$image = $('<img>')
