@@ -1,32 +1,38 @@
-<footer class="site-footer">
-  <div class="container">
-    <div class="col-md-4 col-md-offset-1">
-      <h1>Join our Mailing List</h1>
-      <p>Hello!</p>
-    </div>
-    <div class="col-md-2">
-      <h1>Dalhousie University</h1>
-      <p>6050 University Avenue</p>
-      <p>PO BOX 15000</p>
-      <p>Halifax, NS BH3 4R2,</p>
-      <p>Canada</p>
-    </div>
-    <div class="col-md-2">
-      <h1>Social Links</h1>
-      <p>Twitter</p>
-      <p>LinkedIn</p>
-      <p>Friendster</p>
-      <p>LiveJournal</p>
-    </div>
-    <div class="col-md-2">
-      <h1>Important Links</h1>
-      <p>We Talk Tech</p>
-      <p>Meeting Minutes</p>
-      <p>Contact DAL UNI</p>
-    </div>
-  </div>
-</footer>
+<footer id="footer">
+	<div class="container hidden-xs">
+		<address class="col-sm-4">
+			<strong>Dalhousie University</strong><br>
+			<div class="footer-text">
+				6050 University Avenue<br>
+				PO BOX 15000<br>
+				Halifax, NS, Canada<br>
+				BH3 4R2
+			</div>
+		</address>
+		
+		<div class="col-sm-4">
+			<label>SOCIAL LINKS</label>
+			<ul class="list-unstyled footer-text">
+				<li>Twitter</li>
+				<li>Facebook</li>
+				<li>Flickr</li>	
+			</ul>
+		</div>
 
-<aside class="copyright">
-	<p class="text-muted">With <span class="glyphicon glyphicon-heart"></span> from Web Development Society</p>
-</aside>
+		<div class="col-sm-4">
+			<label>IMPORTANT LINKS</label>
+			<ul class="list-unstyled footer-text">
+				<li>We Talk Tech</li>
+				<li>Meeting Minutes</li>
+				<li>Contact DAL UNI</li>
+			</ul>
+		</div>
+
+		<div class="col-xs-12">
+			<div class="copyright">
+				<p>With <span class="glyphicon glyphicon-heart"></span> from Web Development Society</p>
+			</div>
+		</div>
+		
+	</div>
+</footer>
