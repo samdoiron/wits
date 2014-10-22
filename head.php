@@ -5,7 +5,7 @@
 	<meta name="description" content="Main page for the Women in Technology Society">
 	<meta name="author" content="Web Development Society">
 
-    <link rel="icon" type="image/ico" href="images/WiTSLogo.png"/>
+    <link rel="icon" type="image/ico" href="images/WiTSIcon.png"/>
 	<title>Women in Technology Society</title>
 
 	<!-- Bootstrap core CSS -->
